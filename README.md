@@ -1,4 +1,4 @@
-![](https://github.githubassets.com/images/mona-whisper.gif)
+![](https://media.giphy.com/media/xUA7bfDro97ipc4fu0/giphy.gif)![](https://media.giphy.com/media/xUA7bfDro97ipc4fu0/giphy.gif)![](https://media.giphy.com/media/xUA7bfDro97ipc4fu0/giphy.gif)
 <!--
 **BenEmdon/BenEmdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
